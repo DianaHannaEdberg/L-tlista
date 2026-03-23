@@ -1,0 +1,23 @@
+{
+  "song": [
+    {
+      "title": "Mamma mia",
+      "artist": "Abba",
+      "year": "1975",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "artist": "Miami Sound",
+      "title": "Conga",
+      "year": "1985"
+    },
+    {
+      "id": "3",
+      "artist": "Elvis Presley",
+      "title": "Aloha",
+      "year": "1961"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
